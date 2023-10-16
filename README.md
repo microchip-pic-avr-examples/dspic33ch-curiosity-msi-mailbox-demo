@@ -4,7 +4,7 @@
     <img alt="Shows the black logo in light mode and white logo in dark mode." src="images/microchip_logo_black_red.png">
 </picture>
 
-## %repoDescritpion%
+## dspic33ch curiosity msi mailbox demo
 
 Board Image if any.
 
