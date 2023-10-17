@@ -35,13 +35,11 @@
          }
       },
 	  "peripherals":[
-         "Main Core",
-         "Secondary Core"
+         "Secondary Core",
+         "Main Core"
       ],
       "keywords":[
-         "MSI",
-         "Main Core",
-         "Secondary Core"
+         "MSI"
       ]
    }
 }
