@@ -35,8 +35,7 @@
          }
       },
 	  "peripherals":[
-         "Secondary Core",
-         "Main Core"
+         "MSI"
       ],
       "keywords":[
          "MSI"
