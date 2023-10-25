@@ -77,7 +77,7 @@ The following sections provide procedures to configure the Main project and the 
     - Enable Protocol A and change the direction to M->S.
     - Enable Protocol B.<br> 
     ![Secondary Core MSI Setting](images/SecondaryCoreMSISetting.png)
-- Under Pins Grid View select RE0 as GPIO output 
+- Under Pins Grid View select RE0 as GPIO output<br> 
 ![Pins Grid View](images/pinsGridView.png)
 - In Secondary Core UI assign Output pin ownership for RE1 to Secondary Core1.<br> 
 ![Output Pin Ownership](images/OutputPinOwnership.png)
