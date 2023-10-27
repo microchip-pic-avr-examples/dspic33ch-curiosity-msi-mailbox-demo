@@ -36,21 +36,6 @@ dual-core device.
 - Open the `main.X` project in MPLAB® X IDE.
 - Build and program the device.
 
-## Procedure
-
-- Start MCC in the Main core's MPLAB® X IDE project for the dsPIC33CH512MP508 device.
-- Set up the configuration for MSI, Output pin ownership in the Main project and export the settings.
-    - Configure the MSI mailbox to transfer one word of data from the Main  core to the Secondary core.
-    - Configure the MSI mailbox to receive one word of data from the Secondary core to the Main core.
-    - Assign an output pin ownership to the Secondary core.
-    - Generate the code for main device, Copy main.c file into the project
-- Start MCC in the Secondary Project for dsPIC33CH512MP508S1.
-- Import the settings from the Main project into the Secondary project.
-- Generate the code for secondary device, Copy main.c file into the project.
-- Include Secondary project in a Main project.
-- Build the Main Project and Program the device.
-
-
 ## Operation
 
 - The demo code transmits data 0xAAAA from the Main core to the Secondary core using MSI, 

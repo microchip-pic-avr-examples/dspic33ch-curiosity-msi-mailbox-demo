@@ -11,7 +11,7 @@
  *
  * @skipline @version   Firmware Driver Version 1.2.1
  *
- * @skipline @version   PLIB Version 1.1.1-dev.1
+ * @skipline @version   PLIB Version 1.1.1
  *
  * @skipline  Device : dsPIC33CH128MP508
 */
