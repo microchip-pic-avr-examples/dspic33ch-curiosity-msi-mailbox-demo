@@ -1,0 +1,44 @@
+{
+   "metaDataVersion":"1.0.0",
+   "category":"com.microchip.ide.project",
+   "content":{
+      "metaDataVersion":"1.3.0",
+      "name":"com.microchip.mplabx.project.dspic33ch-curiosity-msi-mailbox-demo",
+      "version":"1.0.0",
+      "displayName":"dsPIC33CH Curiosity Development Board - MSI Mailbox Demo",
+      "projectName":"dspic33ch-curiosity-msi-mailbox-demo",
+      "shortDescription":"This is MSI-Mailbox demo for dsPIC33CH Curiosity board",
+      "ide":{
+         "name":"MPLABX",
+         "semverRange":">=6.15"
+      },
+      "compiler":{
+         "name":"XC16",
+         "semverRange":"^2.10"
+      },
+      "dfp":{
+         "name":"dsPIC33CK-MP_DFP",
+         "semverRange":">=1.15.367"
+      },
+	  "configurator": {
+         "name": "MCC",
+         "semverRange": ">=5.3.7"
+      },
+      "device":{
+         "metaDataVersion":"1.0.0",
+         "category":"com.microchip.portal.contentRef",
+         "content":{
+            "metaDataVersion":"1.0.0",
+            "category":"com.microchip.device",
+            "name":"dsPIC33CH128MP508",
+            "versionRange":"*"
+         }
+      },
+	  "peripherals":[
+         "MSI"
+      ],
+      "keywords":[
+         "MSI"
+      ]
+   }
+}
