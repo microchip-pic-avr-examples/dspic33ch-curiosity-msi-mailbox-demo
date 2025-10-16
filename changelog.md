@@ -1,3 +1,10 @@
+# dspic33ch-curiosity-msi-mailbox-demo v1.0.1
+
+### Release Highlights
+- Patch release to update the DFP used in the project
+
+### Features Added\Updated
+
 # dspic33ch-curiosity-msi-mailbox-demo v1.0.0
 
 ### Release Highlights
